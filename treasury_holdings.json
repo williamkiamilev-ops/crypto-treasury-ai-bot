@@ -1,0 +1,192 @@
+{
+  "DFDV": {
+    "units": null,
+    "shares_outstanding": 29.89,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:47.767517+00:00",
+    "source": "manual",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.6,
+    "staleness_days": 0
+  },
+  "SBET": {
+    "units": null,
+    "shares_outstanding": 197.16,
+    "asset": "ETH",
+    "updated_at_utc": "2026-03-16T22:12:48.070636+00:00",
+    "source": "manual",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.6,
+    "staleness_days": 0
+  },
+  "BMNR": {
+    "units": null,
+    "shares_outstanding": 454.86,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:48.407671+00:00",
+    "source": "manual",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.6,
+    "staleness_days": 0
+  },
+  "BTBT": {
+    "units": null,
+    "shares_outstanding": 323.67,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:48.746536+00:00",
+    "source": "manual",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.6,
+    "staleness_days": 0
+  },
+  "MARA": {
+    "units": 53000.0,
+    "shares_outstanding": 380.23,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:49.088577+00:00",
+    "source": "universe,finnhub,manual,manual",
+    "as_of_date": "2026-03-16T15:51:07.261734+00:00",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "RIOT": {
+    "units": 18000.0,
+    "shares_outstanding": 379.13,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:49.453011+00:00",
+    "source": "universe,finnhub,manual,manual",
+    "as_of_date": "2026-03-16T15:51:07.264402+00:00",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "HUT": {
+    "units": 14000.0,
+    "shares_outstanding": 93.51,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:49.847578+00:00",
+    "source": "universe,finnhub,manual,manual",
+    "as_of_date": "2026-03-16T15:51:07.265608+00:00",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "CIFR": {
+    "units": null,
+    "shares_outstanding": 405.12,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:50.177264+00:00",
+    "source": "manual",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.6,
+    "staleness_days": 0
+  },
+  "CLSK": {
+    "units": 13000.0,
+    "shares_outstanding": 255.75,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:50.502937+00:00",
+    "source": "universe,finnhub,manual,manual",
+    "as_of_date": "2026-03-16T15:51:07.266473+00:00",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "CORZ": {
+    "units": null,
+    "shares_outstanding": 315.33,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T22:12:50.816883+00:00",
+    "source": "manual",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.6,
+    "staleness_days": 0
+  },
+  "MSTR": {
+    "units": 720000.0,
+    "shares_outstanding": 320.47,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:12:54.292031+00:00",
+    "source": "universe,finnhub",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "COIN": {
+    "units": 15000.0,
+    "shares_outstanding": 264.08,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:12:55.347353+00:00",
+    "source": "universe,finnhub",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "TSLA": {
+    "units": 12000.0,
+    "shares_outstanding": 3752.43,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:12:56.094152+00:00",
+    "source": "universe,finnhub",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.8,
+    "staleness_days": 0
+  },
+  "XXI": {
+    "units": 43000.0,
+    "shares_outstanding": null,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:07:42.310596+00:00",
+    "source": "universe",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.65,
+    "staleness_days": 0
+  },
+  "3350.T": {
+    "units": 35000.0,
+    "shares_outstanding": null,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:07:42.310877+00:00",
+    "source": "universe",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.65,
+    "staleness_days": 0
+  },
+  "CEPO": {
+    "units": 30000.0,
+    "shares_outstanding": null,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:07:42.311147+00:00",
+    "source": "universe",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.65,
+    "staleness_days": 0
+  },
+  "GLXY.TO": {
+    "units": null,
+    "shares_outstanding": null,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:07:42.313083+00:00",
+    "source": "unknown",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.0,
+    "staleness_days": 0
+  },
+  "GDC": {
+    "units": null,
+    "shares_outstanding": null,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:07:42.313350+00:00",
+    "source": "unknown",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.0,
+    "staleness_days": 0
+  },
+  "DJT": {
+    "units": null,
+    "shares_outstanding": null,
+    "asset": "BTC",
+    "updated_at_utc": "2026-03-16T16:07:42.313613+00:00",
+    "source": "unknown",
+    "as_of_date": "2026-03-16",
+    "confidence": 0.0,
+    "staleness_days": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "cash": 68816.22588729096,
+  "positions": {
+    "NVDA": {
+      "quantity": 71.0,
+      "avg_price": 179.67479921722412
+    },
+    "TSLA": {
+      "quantity": 47.0,
+      "avg_price": 392.0609227294922
+    }
+  },
+  "trades": [
+    {
+      "timestamp_utc": "2026-03-03T19:32:15.688442+00:00",
+      "symbol": "NVDA",
+      "side": "BUY",
+      "quantity": 71,
+      "fill_price": 179.6748,
+      "notional": 12756.91,
+      "realized_pnl": 0.0
+    },
+    {
+      "timestamp_utc": "2026-03-03T19:32:16.854609+00:00",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "quantity": 47,
+      "fill_price": 392.0609,
+      "notional": 18426.86,
+      "realized_pnl": 0.0
+    }
+  ],
+  "last_updated": "2026-03-03T19:32:16.854633+00:00"
+}

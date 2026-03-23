@@ -1,0 +1,8 @@
+{
+  "https://bitcointreasuries.net/": {
+    "url": "https://bitcointreasuries.net/",
+    "status": "ok",
+    "fetched_at_utc": "2026-03-16T16:11:53.149577+00:00",
+    "content_sample": "<!doctype html>\n<html\n  lang=\"en\"\n  class=\"flex min-h-full flex-col overscroll-none\"\n  dir=\"ltr\"\n>\n  <head>\n<meta name=\"sentry-trace\" content=\"54dc710ff7a9451bbe94b63b8f1fdd8c-95c6c45642b0e3a8-0\"/>\n<meta name=\"baggage\" content=\"sentry-environment=production,sentry-release=ba78a12180724ddbbf02b465996cfd7a,sentry-public_key=7dbe4df65f68c104b95a4dd1195b43e1,sentry-trace_id=54dc710ff7a9451bbe94b63b8f1fdd8c,sentry-org_id=4510283535613952,sentry-sampled=false,sentry-sample_rand=0.6420825225449567,sentry-sample_rate=0.1\"/>\n    <script>\n      (function (w, d, s, l, i) {\n        w[l] = w[l] || []; w[l].push({\n          'gtm.start':\n            new Date().getTime(), event: 'gtm.js'\n        }); var f = d.getElementsByTagName(s)[0],\n          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =\n            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);\n      })(window, document, 'script', 'dataLayer', 'GTM-TTPLML5G');\n    </script>\n    <meta charset=\"utf-8\" />\n    <meta\n      name=\"viewport\"\n      content=\"width=device-width, viewport-fit=cover\"\n    />\n\n    <!--skm2cu--><!--[--><!----><script type=\"application/ld+json"
+  }
+}

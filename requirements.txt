@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+wikipedia
+langchain-community
+ddgs
+langchain-openai
+langchain-anthropic
+pydantic
+yfinance
+pandas
+numpy
+requests
+scikit-learn
+beautifulsoup4

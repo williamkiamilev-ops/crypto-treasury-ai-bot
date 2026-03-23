@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "MSTR",
+    "asset": "BTC",
+    "units": 720000,
+    "market_cap_hint_usd": 95000000000
+  },
+  {
+    "symbol": "MARA",
+    "asset": "BTC",
+    "units": 53000,
+    "market_cap_hint_usd": 6000000000
+  },
+  {
+    "symbol": "XXI",
+    "asset": "BTC",
+    "units": 43000,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "3350.T",
+    "asset": "BTC",
+    "units": 35000,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "CEPO",
+    "asset": "BTC",
+    "units": 30000,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "RIOT",
+    "asset": "BTC",
+    "units": 18000,
+    "market_cap_hint_usd": 5000000000
+  },
+  {
+    "symbol": "COIN",
+    "asset": "BTC",
+    "units": 15000,
+    "market_cap_hint_usd": 78000000000
+  },
+  {
+    "symbol": "HUT",
+    "asset": "BTC",
+    "units": 14000,
+    "market_cap_hint_usd": 3000000000
+  },
+  {
+    "symbol": "CLSK",
+    "asset": "BTC",
+    "units": 13000,
+    "market_cap_hint_usd": 3000000000
+  },
+  {
+    "symbol": "TSLA",
+    "asset": "BTC",
+    "units": 12000,
+    "market_cap_hint_usd": 1000000000000
+  },
+  {
+    "symbol": "XYZ",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "GLXY.TO",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "GDC",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "DJT",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "BMNR",
+    "asset": "ETH",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "DFDV",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "SBET",
+    "asset": "ETH",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "BTBT",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "CIFR",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  },
+  {
+    "symbol": "CORZ",
+    "asset": "BTC",
+    "units": null,
+    "market_cap_hint_usd": null
+  }
+]
